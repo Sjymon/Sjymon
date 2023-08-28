@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name's Phuong. My goal is to deliver high-quality products to users along with exceptional technological experiences. With 5+ years of web development experience, logical thinking, and creative thinking skills, I can confidently take on any position related to the website programming platform. I have expertise in designing, installing, testing, and maintaining web systems and have knowledge of user interfaces, testing, and debugging processes. In addition, I can effectively self-manage on independent projects, as well as collaborate in a team.
+Highlight:
+- 5+ Years of Experience in Website Development (Typescript for Angular/React, Python for Django)
+- 4+ years of experience in Angular Framework
+- 2+ years of experience in ReactJs (NextJs)
+- 1+ year of experience in C# 
+- 10 months of experience in Odoo Development and Odoo Framework
+- Fast learner skills and the ability to handle multi-tasking with high productivity, quality, and responsibility.
